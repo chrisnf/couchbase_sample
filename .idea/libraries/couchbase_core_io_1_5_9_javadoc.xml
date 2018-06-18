@@ -1,0 +1,17 @@
+<component name="libraryTable">
+  <library name="couchbase-core-io-1.5.9-javadoc">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/Downloads/couchbase-core-io-1.5.9-sources.jar!/" />
+      <root url="jar://$USER_HOME$/Downloads/couchbase-core-io-1.5.9.jar!/" />
+      <root url="jar://$USER_HOME$/Downloads/couchbase-java-client-2.5.9.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/Downloads/couchbase-core-io-1.5.9-javadoc.jar!/" />
+      <root url="jar://$USER_HOME$/Downloads/couchbase-java-client-2.5.9-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/Downloads/couchbase-core-io-1.5.9-sources.jar!/" />
+      <root url="jar://$USER_HOME$/Downloads/couchbase-java-client-2.5.9-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
